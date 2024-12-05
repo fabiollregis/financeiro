@@ -111,8 +111,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👤 Autor
 
 Seu Nome
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [@seu-linkedin](https://linkedin.com/in/seu-linkedin)
+- GitHub: https://github.com/fabiollregis
+- LinkedIn: https://linkedin.com/in/@fabiollregis
+
+)
 
 ## 🙏 Agradecimentos
 
@@ -122,4 +124,4 @@ Seu Nome
 - Todos os contribuidores
 
 ---
-⌨️ com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+⌨️ com ❤️ por https://github.com/fabiollregis
