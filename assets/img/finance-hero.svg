@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g id="finance-illustration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Background Elements -->
+        <circle id="circle1" fill="#E3F2FD" cx="400" cy="300" r="250"/>
+        <circle id="circle2" fill="#BBDEFB" cx="400" cy="300" r="200"/>
+        
+        <!-- Graph Elements -->
+        <path d="M200,400 L600,400" id="baseline" stroke="#1E3C72" stroke-width="4"/>
+        <path d="M250,350 L350,280 L450,320 L550,250" id="graph-line" stroke="#4CAF50" stroke-width="4" fill="none"/>
+        
+        <!-- Bar Chart -->
+        <rect x="250" y="320" width="40" height="80" fill="#1E3C72" opacity="0.8"/>
+        <rect x="350" y="300" width="40" height="100" fill="#1E3C72" opacity="0.8"/>
+        <rect x="450" y="280" width="40" height="120" fill="#1E3C72" opacity="0.8"/>
+        
+        <!-- Coin Icons -->
+        <circle cx="250" cy="200" r="30" fill="#FFD700"/>
+        <text x="240" y="208" font-family="Arial" font-size="20" fill="#1E3C72">$</text>
+        
+        <circle cx="550" cy="180" r="25" fill="#FFD700"/>
+        <text x="540" y="188" font-family="Arial" font-size="18" fill="#1E3C72">$</text>
+        
+        <!-- Calculator Icon -->
+        <rect x="450" y="150" width="60" height="80" rx="5" fill="#1E3C72"/>
+        <rect x="460" y="160" width="40" height="20" rx="2" fill="#FFFFFF"/>
+        
+        <!-- Decorative Elements -->
+        <circle cx="200" cy="150" r="10" fill="#4CAF50"/>
+        <circle cx="600" cy="450" r="15" fill="#4CAF50"/>
+        <circle cx="500" cy="100" r="8" fill="#4CAF50"/>
+    </g>
+</svg>
